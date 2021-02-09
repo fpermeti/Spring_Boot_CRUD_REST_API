@@ -26,7 +26,7 @@
 
 		<br>
 
-		<h1>This is a simple REST API for a bookstore</h1>
+		<h1>This is a simple CRUD REST API for a bookstore</h1>
 
 
 		<br>
@@ -111,7 +111,7 @@
 		<br>
 
 		<h5>When posting data, do not specify the "id" property because
-			it is autoincremental</h5>
+			it is autoincremental.</h5>
 
 
 		<!-- Option 1: Bootstrap Bundle with Popper -->
